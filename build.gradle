@@ -13,10 +13,6 @@ java {
 	}
 }
 
-springBoot {
-	mainClassName = 'com.example.demo.HelloWorldController'
-}
-
 repositories {
 	mavenCentral()
 }
